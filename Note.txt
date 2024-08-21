@@ -1,0 +1,7 @@
+-------------Thông tin tài khoản Website------------
+Tài khoản: ducanhhoang412@gmail.com
+Mật khẩu: 123456
+Số thẻ ngân hàng Free để test thanh toán: 4242424242424242
+----------------------------------------------------
+Admin : node index.mjs
+Client : pnpm dev
